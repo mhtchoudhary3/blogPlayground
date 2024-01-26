@@ -1,2 +1,5 @@
 node_modules
 common/temp/*
+*.log
+services/client/.rush/temp/*
+services/client/*.log
