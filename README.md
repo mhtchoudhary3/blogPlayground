@@ -14,5 +14,5 @@
     ```
 4) Start the project with 
     ```sh
-    rush start
+    ./start.sh
     ```
